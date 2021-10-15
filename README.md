@@ -21,8 +21,8 @@ Simple Memento Pattern
 - Resoring saved states
 
 ## Screenshots
-![code](./doc/code.png)
-![output](./doc/output.png)
+![code](./MementoPattern/doc/code.png)
+![output](./MementoPattern/doc/output.png)
 
 
 ## Project Status
